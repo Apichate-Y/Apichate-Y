@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Non github stats](https://github-readme-stats.vercel.app/api?username=LoukGolf89&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoukGolf89&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoukGolf89&theme=algolia)
+![Non github stats](https://github-readme-stats.vercel.app/api?username=LoukGolf89&show_icons=true&theme=algolia)
