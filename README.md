@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NameApichate&theme=algolia)
-![Non github stats](https://github-readme-stats.vercel.app/api?username=NameApichate&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apichate-Y&theme=algolia)
+![Non github stats](https://github-readme-stats.vercel.app/api?username=Apichate-Y&show_icons=true&theme=algolia)
